@@ -4,8 +4,15 @@
         <description><![CDATA[Rebecca Batdorf Art Portfolio]]></description>
         <link>https://thegrid.ai/creative-reba/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Jul 2016 03:45:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2016 03:48:06 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/creative-reba/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa10641b-752b-488f-bfbf-3c4db2adfe41.jpg">]]></description>
+            <link>https://thegrid.ai/creative-reba/charcoal-study-on-newsprint-of-potatoes-and-an-onion-with-t/index.html</link>
+            <guid isPermaLink="false">8a9f1890-5558-4744-8588-67f68f96ff60</guid>
+            <pubDate>Sat, 23 Jul 2016 03:48:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Rebecca Batdorf]]></title>
             <description><![CDATA[<article><h1>Rebecca Batdorf</h1><p>More newsprint charcoal studies of vegetables.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2dae5b5cab509b11220a134b77c05237/croprotate.jpg?cropheight=3262&cropwidth=4928&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fa7f94745-b297-42de-80ef-80aa49b3ce61.jpg&x=0&y=0"></article>]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/creative-reba/currently-studying-fine-arts-education-to-receive-a-certifi/index.html</link>
             <guid isPermaLink="false">4ecea33c-7054-4f86-b2d2-98866111cde7</guid>
             <pubDate>Sat, 23 Jul 2016 03:37:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa10641b-752b-488f-bfbf-3c4db2adfe41.jpg">]]></description>
-            <link>https://thegrid.ai/creative-reba/charcoal-study-on-newsprint-of-potatoes-and-an-onion-with-t/index.html</link>
-            <guid isPermaLink="false">8a9f1890-5558-4744-8588-67f68f96ff60</guid>
-            <pubDate>Sat, 23 Jul 2016 03:27:45 GMT</pubDate>
         </item>
     </channel>
 </rss>

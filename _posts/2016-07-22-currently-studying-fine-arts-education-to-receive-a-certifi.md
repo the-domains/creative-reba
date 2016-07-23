@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Art by Rebecca Batdorf
-datePublished: '2016-07-23T03:49:18.425Z'
-dateModified: '2016-07-23T03:37:50.496Z'
+datePublished: '2016-07-23T03:49:38.358Z'
+dateModified: '2016-07-23T03:49:26.392Z'
 title: >-
   Currently Studying: Fine Arts Education to receive a Certificate to teach art
   education.

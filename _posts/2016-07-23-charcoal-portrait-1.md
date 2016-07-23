@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-07-23T04:35:16.644Z'
-dateModified: '2016-07-23T04:35:01.816Z'
+datePublished: '2016-07-23T04:35:28.334Z'
+dateModified: '2016-07-23T04:35:24.876Z'
 title: Charcoal Portrait  1
 author:
   - name: Rebecca Batdorf

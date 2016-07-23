@@ -7,11 +7,13 @@ keywords: []
 description: >-
   Charcoal study on newsprint of potatoes and an onion. With time the paper has
   discolored but I still like it. 
-datePublished: '2016-07-23T03:26:36.647Z'
-dateModified: '2016-07-23T03:26:24.587Z'
+datePublished: '2016-07-23T03:27:45.611Z'
+dateModified: '2016-07-23T03:26:42.981Z'
 title: ''
 author: []
 via: {}
+sourcePath: >-
+  _posts/2016-07-23-charcoal-study-on-newsprint-of-potatoes-and-an-onion-with-t.md
 authors: []
 publisher:
   name: null
@@ -19,8 +21,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: >-
-  _posts/2016-07-23-charcoal-study-on-newsprint-of-potatoes-and-an-onion-with-t.md
 url: charcoal-study-on-newsprint-of-potatoes-and-an-onion-with-t/index.html
 _type: Article
 

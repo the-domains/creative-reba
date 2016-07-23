@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Creative Reba]]></title>
-        <description><![CDATA[Creative Reba]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Rebecca Batdorf Art Portfolio]]></title>
+        <description><![CDATA[Rebecca Batdorf Art Portfolio]]></description>
+        <link>https://thegrid.ai/creative-reba/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jul 2016 20:56:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 23 Jul 2016 03:26:38 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/creative-reba/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa10641b-752b-488f-bfbf-3c4db2adfe41.jpg">]]></description>
+            <link>https://thegrid.ai/creative-reba/charcoal-study-on-newsprint-of-potatoes-and-an-onion-with-t/index.html</link>
+            <guid isPermaLink="false">8a9f1890-5558-4744-8588-67f68f96ff60</guid>
+            <pubDate>Sat, 23 Jul 2016 03:26:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Currently Studying: Fine Arts Education to receive a Certificate to teach art education.]]></title>
             <description><![CDATA[<article><h1>Currently Studying: Fine Arts Education to receive a Certificate to teach art education.</h1><h2>Degree in Fine Arts with concentration in Graphic Design.</h2><p>Art by Rebecca Batdorf</p></article>]]></description>
-            <link>undefinedcurrently-studying-fine-arts-education-to-receive-a-certifi/index.html</link>
+            <link>https://thegrid.ai/creative-reba/currently-studying-fine-arts-education-to-receive-a-certifi/index.html</link>
             <guid isPermaLink="false">4ecea33c-7054-4f86-b2d2-98866111cde7</guid>
             <pubDate>Fri, 22 Jul 2016 20:56:31 GMT</pubDate>
         </item>

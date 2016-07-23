@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Art by Rebecca Batdorf
-datePublished: '2016-07-23T03:37:43.361Z'
-dateModified: '2016-07-23T03:31:03.033Z'
+datePublished: '2016-07-23T03:49:18.425Z'
+dateModified: '2016-07-23T03:37:50.496Z'
 title: >-
   Currently Studying: Fine Arts Education to receive a Certificate to teach art
   education.
@@ -16,7 +16,7 @@ sourcePath: >-
   _posts/2016-07-22-currently-studying-fine-arts-education-to-receive-a-certifi.md
 authors: []
 publisher: {}
-starred: false
+starred: true
 url: currently-studying-fine-arts-education-to-receive-a-certifi/index.html
 _type: Article
 

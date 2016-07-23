@@ -5,18 +5,20 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Charcoal study on newsprint of potatoes and an onion. '
-datePublished: '2016-07-23T03:48:04.710Z'
-dateModified: '2016-07-23T03:31:44.411Z'
-title: ''
-author: []
+datePublished: '2016-07-23T03:49:44.935Z'
+dateModified: '2016-07-23T03:48:09.358Z'
+title: Charcoal 3
+author:
+  - name: Rebecca Batdorf
+    url: ''
 via: {}
 sourcePath: >-
   _posts/2016-07-23-charcoal-study-on-newsprint-of-potatoes-and-an-onion-with-t.md
 authors: []
 publisher:
-  name: null
+  name: Rebecca Batdorf
   domain: null
-  url: null
+  url: ''
   favicon: null
 starred: false
 url: charcoal-study-on-newsprint-of-potatoes-and-an-onion-with-t/index.html

@@ -4,8 +4,15 @@
         <description><![CDATA[Rebecca Batdorf Art Portfolio]]></description>
         <link>https://thegrid.ai/creative-reba/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Jul 2016 04:01:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2016 04:06:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/creative-reba/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Charcoal  3]]></title>
+            <description><![CDATA[<article><h1>Charcoal  3</h1><p>Charcoal study on newsprint of potatoes and an onion. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dc4141403199dd31ce3c25b44994060a10eae182.jpg"></article>]]></description>
+            <link>https://thegrid.ai/creative-reba/charcoal-study-on-newsprint-of-potatoes-and-an-onion-with-t/index.html</link>
+            <guid isPermaLink="false">8a9f1890-5558-4744-8588-67f68f96ff60</guid>
+            <pubDate>Sat, 23 Jul 2016 04:06:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Currently Studying: Fine Arts Education to receive a Certificate to teach art education.]]></title>
             <description><![CDATA[<article><h1>Currently Studying: Fine Arts Education to receive a Certificate to teach art education.</h1><h2>Degree in Fine Arts with concentration in Graphic Design.</h2><p>Art by Rebecca Batdorf</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ccb1070b98b1a2a78e38cba8da8d08f42f70f80d.jpg"></article>]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/creative-reba/more-newsprint-charcoal-studies-of-onions-and-jalopinos/index.html</link>
             <guid isPermaLink="false">c5a49ffd-d9ea-40dc-ae63-b607fa6f3f7f</guid>
             <pubDate>Sat, 23 Jul 2016 03:55:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Charcoal  3]]></title>
-            <description><![CDATA[<article><h1>Charcoal  3</h1><p>Charcoal study on newsprint of potatoes and an onion. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dc4141403199dd31ce3c25b44994060a10eae182.jpg"></article>]]></description>
-            <link>https://thegrid.ai/creative-reba/charcoal-study-on-newsprint-of-potatoes-and-an-onion-with-t/index.html</link>
-            <guid isPermaLink="false">8a9f1890-5558-4744-8588-67f68f96ff60</guid>
-            <pubDate>Sat, 23 Jul 2016 03:55:41 GMT</pubDate>
         </item>
     </channel>
 </rss>

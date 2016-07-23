@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Art by Rebecca Batdorf
-datePublished: '2016-07-23T04:08:22.605Z'
-dateModified: '2016-07-23T04:01:57.045Z'
+datePublished: '2016-07-23T04:09:15.062Z'
+dateModified: '2016-07-23T04:08:23.225Z'
 title: >-
   Currently Studying: Fine Arts Education to receive a Certificate to teach art
   education.
@@ -28,7 +28,7 @@ _type: Article
 
 ---
 _**Art by Rebecca Batdorf**_
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f47440808a739391944f5edd49e844c0/croprotate.jpg?cropheight=2109&cropwidth=3456&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fdc6391ed-ed92-441b-817a-b66abfa5ceb7.jpg&x=0&y=108)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ccb1070b98b1a2a78e38cba8da8d08f42f70f80d.jpg)
 
 Graduate from Indiana University 2013 -IPFW
 

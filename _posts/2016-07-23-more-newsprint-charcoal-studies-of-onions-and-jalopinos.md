@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 keywords: []
 description: More newsprint charcoal studies of vegetables.
-datePublished: '2016-07-23T03:49:52.139Z'
-dateModified: '2016-07-23T03:45:44.588Z'
-title: Charcoal 1
+datePublished: '2016-07-23T03:54:40.414Z'
+dateModified: '2016-07-23T03:54:22.012Z'
+title: Charcoal  1
 author:
   - name: Rebecca Batdorf
     url: ''
@@ -15,7 +15,7 @@ via: {}
 sourcePath: _posts/2016-07-23-more-newsprint-charcoal-studies-of-onions-and-jalopinos.md
 authors: []
 publisher:
-  name: Rebecca Batdorf
+  name: ''
   domain: null
   url: ''
   favicon: null

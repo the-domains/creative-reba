@@ -4,8 +4,15 @@
         <description><![CDATA[Rebecca Batdorf Art Portfolio]]></description>
         <link>https://thegrid.ai/creative-reba/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 22:43:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 22:43:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/creative-reba/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Charcoal  1]]></title>
+            <description><![CDATA[<article><h1>Charcoal  1</h1><p>More newsprint charcoal studies of vegetables.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2dae5b5cab509b11220a134b77c05237/croprotate.jpg?cropheight=3262&cropwidth=4928&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fa7f94745-b297-42de-80ef-80aa49b3ce61.jpg&x=0&y=0"></article>]]></description>
+            <link>https://thegrid.ai/creative-reba/more-newsprint-charcoal-studies-of-onions-and-jalopinos/index.html</link>
+            <guid isPermaLink="false">c5a49ffd-d9ea-40dc-ae63-b607fa6f3f7f</guid>
+            <pubDate>Sun, 24 Jul 2016 22:43:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Charcoal  3]]></title>
             <description><![CDATA[<article><h1>Charcoal  3</h1><p>Charcoal study on newsprint of potatoes and an onion. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dc4141403199dd31ce3c25b44994060a10eae182.jpg"></article>]]></description>
@@ -33,13 +40,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/dc6391ed-ed92-441b-817a-b66abfa5ceb7.jpg</link>
             <guid isPermaLink="false">4ecea33c-7054-4f86-b2d2-98866111cde7</guid>
             <pubDate>Sun, 24 Jul 2016 22:34:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Charcoal  1]]></title>
-            <description><![CDATA[<article><h1>Charcoal  1</h1><p>More newsprint charcoal studies of vegetables.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2dae5b5cab509b11220a134b77c05237/croprotate.jpg?cropheight=3262&cropwidth=4928&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fa7f94745-b297-42de-80ef-80aa49b3ce61.jpg&x=0&y=0"></article>]]></description>
-            <link>https://thegrid.ai/creative-reba/more-newsprint-charcoal-studies-of-onions-and-jalopinos/index.html</link>
-            <guid isPermaLink="false">c5a49ffd-d9ea-40dc-ae63-b607fa6f3f7f</guid>
-            <pubDate>Sun, 24 Jul 2016 22:33:20 GMT</pubDate>
         </item>
     </channel>
 </rss>

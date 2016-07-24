@@ -4,7 +4,7 @@
         <description><![CDATA[Rebecca Batdorf Art Portfolio]]></description>
         <link>https://thegrid.ai/creative-reba/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 22:08:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 22:10:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/creative-reba/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Charcoal  3]]></title>
@@ -26,13 +26,6 @@
             <link>https://thegrid.ai/creative-reba/charcoal-portrait-1/index.html</link>
             <guid isPermaLink="false">e3309688-58f5-4489-9a26-21d199fe28b8</guid>
             <pubDate>Sat, 23 Jul 2016 04:35:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Charcoal  1]]></title>
-            <description><![CDATA[<article><h1>Charcoal  1</h1><p>More newsprint charcoal studies of vegetables.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2dae5b5cab509b11220a134b77c05237/croprotate.jpg?cropheight=3262&cropwidth=4928&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fa7f94745-b297-42de-80ef-80aa49b3ce61.jpg&x=0&y=0"></article>]]></description>
-            <link>https://thegrid.ai/creative-reba/more-newsprint-charcoal-studies-of-onions-and-jalopinos/index.html</link>
-            <guid isPermaLink="false">c5a49ffd-d9ea-40dc-ae63-b607fa6f3f7f</guid>
-            <pubDate>Sat, 23 Jul 2016 03:55:45 GMT</pubDate>
         </item>
     </channel>
 </rss>

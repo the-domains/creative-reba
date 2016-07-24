@@ -4,8 +4,15 @@
         <description><![CDATA[Rebecca Batdorf Art Portfolio]]></description>
         <link>https://thegrid.ai/creative-reba/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 22:34:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 22:35:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/creative-reba/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Current: Fine Art Education]]></title>
+            <description><![CDATA[<article><h1>Current: Fine Art Education</h1><h2>Current Degree:Bachelors of Fine Arts</h2><p>Art by Rebecca Batdorf</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ccb1070b98b1a2a78e38cba8da8d08f42f70f80d.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/dc6391ed-ed92-441b-817a-b66abfa5ceb7.jpg</link>
+            <guid isPermaLink="false">4ecea33c-7054-4f86-b2d2-98866111cde7</guid>
+            <pubDate>Sun, 24 Jul 2016 22:34:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Charcoal  3]]></title>
             <description><![CDATA[<article><h1>Charcoal  3</h1><p>Charcoal study on newsprint of potatoes and an onion. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dc4141403199dd31ce3c25b44994060a10eae182.jpg"></article>]]></description>
@@ -33,13 +40,6 @@
             <link>https://thegrid.ai/creative-reba/ace-of-hearts/index.html</link>
             <guid isPermaLink="false">57705127-406a-4fc7-a847-fff294f886b0</guid>
             <pubDate>Sun, 24 Jul 2016 22:32:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Currently Studying: ]]></title>
-            <description><![CDATA[<article><h1>Currently Studying: </h1><h2>Current Degree: </h2><p>Art by Rebecca Batdorf</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ccb1070b98b1a2a78e38cba8da8d08f42f70f80d.jpg"></article>]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/dc6391ed-ed92-441b-817a-b66abfa5ceb7.jpg</link>
-            <guid isPermaLink="false">4ecea33c-7054-4f86-b2d2-98866111cde7</guid>
-            <pubDate>Sun, 24 Jul 2016 22:18:17 GMT</pubDate>
         </item>
     </channel>
 </rss>

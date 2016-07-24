@@ -1,7 +1,7 @@
 name: Creative Reba
 favicon: null
-layout_spectrum: 0.82409
-typography_spectrum: 0.11579
+layout_spectrum: 0.82842
+typography_spectrum: 0.71753
 title: Rebecca Batdorf Art Portfolio
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#acb6f0'
     - '#000000'
-    - '#fefefe'
-    - '#323232'
-    - '#e26480'
-  brandStrength: 0.625
+    - '#7977a4'
+    - '#442246'
+    - '#babeee'
+    - '#f5f5f5'
+  brandStrength: 0.375
   lightness: 0.75
-  saturation: 0.1875
-  rhythmicContrast: 0.25
+  saturation: 0.375
+  rhythmicContrast: 0.5
 purpose: []

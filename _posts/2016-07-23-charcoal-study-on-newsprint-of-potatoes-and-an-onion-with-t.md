@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Charcoal study on newsprint of potatoes and an onion. '
-datePublished: '2016-07-24T22:08:34.140Z'
-dateModified: '2016-07-24T22:08:19.695Z'
+datePublished: '2016-07-24T22:33:35.030Z'
+dateModified: '2016-07-24T22:08:41.819Z'
 title: Charcoal  3
 author:
   - name: Rebecca Batdorf

@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Photoshop and Photography
-datePublished: '2016-07-24T22:16:42.873Z'
-dateModified: '2016-07-24T22:16:22.102Z'
+datePublished: '2016-07-24T22:32:32.361Z'
+dateModified: '2016-07-24T22:16:52.617Z'
 title: 'Self Portrait '
 author:
   - name: Rebecca Batdorf

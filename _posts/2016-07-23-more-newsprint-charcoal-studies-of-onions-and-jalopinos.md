@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: More newsprint charcoal studies of vegetables.
-datePublished: '2016-07-24T22:10:23.618Z'
-dateModified: '2016-07-24T22:10:08.087Z'
+datePublished: '2016-07-24T22:17:48.092Z'
+dateModified: '2016-07-24T22:17:43.595Z'
 title: Charcoal  1
 author:
   - name: Rebecca Batdorf

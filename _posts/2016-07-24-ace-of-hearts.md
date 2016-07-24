@@ -1,12 +1,12 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
 description: ' Ace of hearts created in high school, oil pastel and magazine clipping reused.'
-datePublished: '2016-07-24T22:29:45.552Z'
-dateModified: '2016-07-24T22:28:24.221Z'
+datePublished: '2016-07-24T22:32:09.517Z'
+dateModified: '2016-07-24T22:32:09.123Z'
 title: Ace of Hearts
 author:
   - name: Rebecca Batdorf
@@ -21,7 +21,7 @@ publisher:
   favicon: null
 starred: true
 url: ace-of-hearts/index.html
-_type: MediaObject
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a0345910-b72f-4107-9dbf-2f992f57275a.jpg)

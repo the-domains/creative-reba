@@ -7,9 +7,9 @@ isBasedOnUrl: >-
 inLanguage: null
 keywords: []
 description: Art by Rebecca Batdorf
-datePublished: '2016-07-24T22:34:58.248Z'
-dateModified: '2016-07-24T22:34:41.641Z'
-title: 'Current: Fine Art Education'
+datePublished: '2016-07-24T22:45:43.239Z'
+dateModified: '2016-07-24T22:45:20.889Z'
+title: 'Studying: Fine Art Education'
 author:
   - name: Rebecca Batdorf
     url: ''
@@ -35,4 +35,4 @@ Graduated from Indiana University 2013 -IPFW
 
 ## concentration in Graphic Design.
 
-# Current: Fine Art Education
+# Studying: Fine Art Education

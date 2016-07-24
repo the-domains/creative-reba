@@ -1,15 +1,15 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/dc6391ed-ed92-441b-817a-b66abfa5ceb7.jpg
 inLanguage: null
 keywords: []
 description: Art by Rebecca Batdorf
-datePublished: '2016-07-23T04:09:15.062Z'
-dateModified: '2016-07-23T04:08:23.225Z'
-title: >-
-  Currently Studying: Fine Arts Education to receive a Certificate to teach art
-  education.
+datePublished: '2016-07-24T22:05:50.022Z'
+dateModified: '2016-07-24T22:05:27.717Z'
+title: 'Currently Studying: '
 author:
   - name: Rebecca Batdorf
     url: ''
@@ -23,15 +23,20 @@ publisher:
   url: ''
   favicon: null
 starred: true
-url: currently-studying-fine-arts-education-to-receive-a-certifi/index.html
-_type: Article
+_type: MediaObject
 
 ---
 _**Art by Rebecca Batdorf**_
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ccb1070b98b1a2a78e38cba8da8d08f42f70f80d.jpg)
 
-Graduate from Indiana University 2013 -IPFW
+Graduated from Indiana University 2013 -IPFW
 
-## Degree in Fine Arts with concentration in Graphic Design.
+## Current Degree: 
 
-# Currently Studying: Fine Arts Education to receive a Certificate to teach art education.
+## Bachelors of Fine Arts 
+
+## concentration in Graphic Design.
+
+# Currently Studying: 
+
+# Fine Art Education

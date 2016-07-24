@@ -7,8 +7,8 @@ isBasedOnUrl: >-
 inLanguage: null
 keywords: []
 description: Art by Rebecca Batdorf
-datePublished: '2016-07-24T22:05:50.022Z'
-dateModified: '2016-07-24T22:05:27.717Z'
+datePublished: '2016-07-24T22:18:17.368Z'
+dateModified: '2016-07-24T22:05:53.678Z'
 title: 'Currently Studying: '
 author:
   - name: Rebecca Batdorf

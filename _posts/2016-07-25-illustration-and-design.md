@@ -5,19 +5,17 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Illustrator
-datePublished: '2016-07-25T16:13:22.228Z'
-dateModified: '2016-07-25T16:13:15.652Z'
+datePublished: '2016-07-25T16:24:15.149Z'
+dateModified: '2016-07-25T16:22:15.597Z'
 title: Illustration & Design
 author:
   - name: Rebecca Batdorf
     url: ''
 via: {}
 authors: []
-publisher:
-  name: ''
-  url: ''
-starred: true
+publisher: {}
 sourcePath: _posts/2016-07-25-illustration-and-design.md
+starred: false
 url: illustration-and-design/index.html
 _type: Article
 

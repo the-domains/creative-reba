@@ -4,7 +4,7 @@
         <description><![CDATA[Rebecca Batdorf Art Portfolio]]></description>
         <link>https://thegrid.ai/creative-reba/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jul 2016 15:02:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2016 15:08:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/creative-reba/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Egypt Inspired 1]]></title>
@@ -47,6 +47,13 @@
             <link>https://thegrid.ai/creative-reba/ace-of-hearts/index.html</link>
             <guid isPermaLink="false">57705127-406a-4fc7-a847-fff294f886b0</guid>
             <pubDate>Sun, 24 Jul 2016 22:42:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Figure Drawing 1]]></title>
+            <description><![CDATA[<article><h1>Figure Drawing 1</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a942d3e6-1b4f-4862-bb78-9356437ac5d8.jpg"></article>]]></description>
+            <link>https://thegrid.ai/creative-reba/figure-drawing-1/index.html</link>
+            <guid isPermaLink="false">2d0f6da3-4435-4e71-85c8-d08500f2ae1c</guid>
+            <pubDate>Mon, 25 Jul 2016 15:08:23 GMT</pubDate>
         </item>
     </channel>
 </rss>

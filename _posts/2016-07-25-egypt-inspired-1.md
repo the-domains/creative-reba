@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Sketch for print
-datePublished: '2016-07-25T15:02:28.346Z'
-dateModified: '2016-07-25T15:02:08.426Z'
+datePublished: '2016-07-25T16:54:49.958Z'
+dateModified: '2016-07-25T16:54:44.303Z'
 title: Egypt Inspired 1
 author:
   - name: Rebecca Batdorf

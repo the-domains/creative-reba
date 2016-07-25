@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-07-25T16:51:01.419Z'
-dateModified: '2016-07-25T16:34:21.853Z'
+datePublished: '2016-07-25T17:01:34.680Z'
+dateModified: '2016-07-25T16:56:26.920Z'
 title: Charcoal Drawing's
 author:
   - name: Rebecca Batdorf
@@ -14,12 +14,8 @@ author:
 via: {}
 sourcePath: _posts/2016-07-23-more-newsprint-charcoal-studies-of-onions-and-jalopinos.md
 authors: []
-publisher:
-  name: ''
-  domain: null
-  url: ''
-  favicon: null
-starred: true
+publisher: {}
+starred: false
 url: more-newsprint-charcoal-studies-of-onions-and-jalopinos/index.html
 _type: Article
 

@@ -4,24 +4,27 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: Illustrator
-datePublished: '2016-07-25T16:24:15.149Z'
-dateModified: '2016-07-25T16:22:15.597Z'
+description: 'Texture and pattern, Photoshop, Photography'
+datePublished: '2016-07-25T17:00:43.483Z'
+dateModified: '2016-07-25T17:00:28.174Z'
 title: Illustration & Design
 author:
   - name: Rebecca Batdorf
     url: ''
 via: {}
-authors: []
-publisher: {}
 sourcePath: _posts/2016-07-25-illustration-and-design.md
+authors: []
+publisher:
+  name: ''
+  domain: null
+  url: ''
+  favicon: null
 starred: false
 url: illustration-and-design/index.html
 _type: Article
 
 ---
 # Illustration & Design
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6ff0c95fd3511292bbdb55161d4274d5/croprotate.jpg?cropheight=5030&cropwidth=3300&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Ff997f5a7-62f3-46f3-a84a-6d9df34f6c04.jpg&x=0&y=0)
 ![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9ebe36700e61b8cdda8101e5b9a48015/croprotate.jpg?cropheight=4350&cropwidth=2816&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F2c501b13-7af8-4922-b729-b70b1dba7925.jpg&x=0&y=0)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd89da98-8459-44b0-9e19-4bd34b533cea.png)
 ![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a658edec8977074cf4782ba2148e7342/croprotate.jpg?cropheight=3000&cropwidth=2794&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F5ba63f16-69e2-4c3b-8ee0-9aff603d00dd.jpg&x=102&y=0)

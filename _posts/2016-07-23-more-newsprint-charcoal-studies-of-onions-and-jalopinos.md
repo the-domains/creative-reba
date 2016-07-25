@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-07-25T16:34:14.747Z'
-dateModified: '2016-07-25T16:32:56.231Z'
+datePublished: '2016-07-25T16:51:01.419Z'
+dateModified: '2016-07-25T16:34:21.853Z'
 title: Charcoal Drawing's
 author:
   - name: Rebecca Batdorf

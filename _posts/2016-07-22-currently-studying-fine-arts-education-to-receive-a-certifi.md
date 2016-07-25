@@ -7,8 +7,8 @@ isBasedOnUrl: >-
 inLanguage: null
 keywords: []
 description: Art by Rebecca Batdorf
-datePublished: '2016-07-25T15:47:50.359Z'
-dateModified: '2016-07-25T15:47:49.955Z'
+datePublished: '2016-07-25T15:48:04.063Z'
+dateModified: '2016-07-25T15:48:03.602Z'
 title: 'Studying: Fine Art Education'
 author:
   - name: Rebecca Batdorf

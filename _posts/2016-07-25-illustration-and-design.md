@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Texture and pattern, Photoshop, Photography'
-datePublished: '2016-07-25T17:00:43.483Z'
-dateModified: '2016-07-25T17:00:28.174Z'
+datePublished: '2016-07-25T17:01:11.917Z'
+dateModified: '2016-07-25T17:01:00.310Z'
 title: Illustration & Design
 author:
   - name: Rebecca Batdorf
@@ -14,12 +14,8 @@ author:
 via: {}
 sourcePath: _posts/2016-07-25-illustration-and-design.md
 authors: []
-publisher:
-  name: ''
-  domain: null
-  url: ''
-  favicon: null
-starred: false
+publisher: {}
+starred: true
 url: illustration-and-design/index.html
 _type: Article
 

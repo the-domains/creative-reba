@@ -7,8 +7,8 @@ isBasedOnUrl: >-
 inLanguage: null
 keywords: []
 description: Art by Rebecca Batdorf
-datePublished: '2016-07-24T22:45:50.991Z'
-dateModified: '2016-07-24T22:45:45.033Z'
+datePublished: '2016-07-25T15:47:38.530Z'
+dateModified: '2016-07-25T15:47:38.102Z'
 title: 'Studying: Fine Art Education'
 author:
   - name: Rebecca Batdorf
@@ -18,9 +18,9 @@ sourcePath: >-
   _posts/2016-07-22-currently-studying-fine-arts-education-to-receive-a-certifi.md
 authors: []
 publisher:
-  name: ''
+  name: null
   domain: null
-  url: ''
+  url: null
   favicon: null
 starred: true
 _type: MediaObject
@@ -28,6 +28,7 @@ _type: MediaObject
 ---
 _**Art by Rebecca Batdorf**_
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ccb1070b98b1a2a78e38cba8da8d08f42f70f80d.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a713d34a-04c6-482b-90b4-4eaee7aa7600.jpg)
 
 Graduated from Indiana University 2013 -IPFW
 
@@ -36,3 +37,7 @@ Graduated from Indiana University 2013 -IPFW
 ## concentration in Graphic Design.
 
 # Studying: Fine Art Education
+
+You can also see my photography at [**_Muse Photo_**][0]
+
+[0]: https://thegrid.ai/muse-photo/

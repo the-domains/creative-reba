@@ -7,8 +7,8 @@ isBasedOnUrl: >-
 inLanguage: null
 keywords: []
 description: Art by Rebecca Batdorf
-datePublished: '2016-07-25T16:38:26.965Z'
-dateModified: '2016-07-25T16:38:26.354Z'
+datePublished: '2016-07-25T16:50:29.412Z'
+dateModified: '2016-07-25T16:50:19.734Z'
 title: 'Studying: Fine Art Education'
 author:
   - name: Rebecca Batdorf
@@ -18,9 +18,9 @@ sourcePath: >-
   _posts/2016-07-22-currently-studying-fine-arts-education-to-receive-a-certifi.md
 authors: []
 publisher:
-  name: ''
+  name: null
   domain: null
-  url: ''
+  url: null
   favicon: null
 starred: true
 _type: MediaObject
